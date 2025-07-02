@@ -44,7 +44,7 @@
     "@types/escape-html": "1.0.4",
     "escape-html": "1.0.3",
     "fast-proxy": "2.2.0",
-    "fastify": "5.2.1",
+    "fastify": "5.3.2",
     "get-port": "5.1.1",
     "graphql-request": "6.1.0",
     "graphql-tag": "2.12.6",
