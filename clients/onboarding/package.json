@@ -22,7 +22,7 @@
     "@swan-io/request": "2.0.0",
     "@swan-io/shared-business": "11.4.2",
     "@swan-io/use-form": "3.1.0",
-    "core-js": "3.40.0",
+    "core-js": "3.43.0",
     "dayjs": "1.11.13",
     "nanoid": "5.1.0",
     "react": "18.3.1",
