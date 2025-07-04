@@ -12,7 +12,7 @@
     "clean": "tsc --clean"
   },
   "dependencies": {
-    "@formatjs/intl": "3.1.4",
+    "@formatjs/intl": "3.1.6",
     "@juggle/resize-observer": "3.4.0",
     "@sentry/browser": "8.54.0",
     "@swan-io/boxed": "3.2.0",
